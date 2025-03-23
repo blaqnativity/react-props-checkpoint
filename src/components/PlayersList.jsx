@@ -1,4 +1,6 @@
+// this is the player component in the same directory as the playersList component
 import Player from "./Player";
+// this is the player.js object array document
 import players from "../Players";
 import { Container, Row, Col } from "react-bootstrap";
 
